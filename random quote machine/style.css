@@ -1,0 +1,24 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+#text {
+  font-size: 2rem;
+}
+
+.btn-light {
+  color: white;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+
+.fa-quote-left {
+  padding: 0 10px;
+}
+
+#quote-box {
+  min-width: 300px;
+}
+
+/*# sourceMappingURL=style.css.map */
